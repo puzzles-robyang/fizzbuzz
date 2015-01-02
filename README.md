@@ -28,7 +28,7 @@ Print out the series 1 through N replacing numbers divisible by X with “F”, 
 
 #### CONSTRAINTS:
 
-The number of test cases ≤ 20
-"X" is in range [1, 20]
-"Y" is in range [1, 20]
-"N" is in range [21, 100]
+- The number of test cases ≤ 20
+- "X" is in range [1, 20]
+- "Y" is in range [1, 20]
+- "N" is in range [21, 100]
